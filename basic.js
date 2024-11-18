@@ -8,7 +8,6 @@ console.log(12 >= 14); //false
 console.log(4 <= 4); //true
 console.log(8 <= 14); //true
 console.log(14 <= 8); //false
-
 console.log(10 == 10); //true
 console.log(100 == "100"); //true
 console.log(100 === "100"); // false
